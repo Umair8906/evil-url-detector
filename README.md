@@ -2,10 +2,7 @@
 ```
  git clone https://github.com/Umair8906/evil-url-detector.git
 
- 
- 
  cd evil-url-detector
- 
  
  python3 checkURL.py --url inter your link
  
