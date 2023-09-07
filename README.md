@@ -1,3 +1,7 @@
+FOR ANY HELP AND ANY ISSUE CONTACT TO WHATSAPP GROUP
+
+https://chat.whatsapp.com/CFmQT9KVsRI3e3XkcZeAF7
+
 <
 ```
  git clone https://github.com/Umair8906/evil-url-detector.git
